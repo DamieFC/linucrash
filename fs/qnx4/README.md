@@ -1,8 +1,8 @@
-
+# QNX4 Folder
   This is a snapshot of the QNX4 filesystem for Linux.
   Please send diffs and remarks to <al@alarsen.net> .
   
-Credits :
+## Credits:
 
 Richard "Scuba" A. Frowijn     <scuba@wxs.nl>
 Frank "Jedi/Sector One" Denis  <j@pureftpd.org>
