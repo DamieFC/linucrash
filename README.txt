@@ -1,4 +1,4 @@
-# Linux kernel
+Linux kernel
 ============
 
 There are several guides for kernel developers and users. These guides can
@@ -16,5 +16,7 @@ several of them using the Restructured Text markup notation.
 Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
-## Why I forked this
+Why I forked this
+==================
+
 I wanted to mess with it and see what I could do with it, for fun.
