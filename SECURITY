@@ -1,0 +1,12 @@
+Security Policy
+################
+
+Supported Versions
+-------------------
+
+All versions of GNU/Linux receive regular security patches.
+
+Reporting a Vulnerability
+--------------------------
+
+To report a security issue, email the issue to <security@kernel.org>. 
