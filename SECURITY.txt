@@ -1,0 +1,14 @@
+Security Policy
+################
+
+Supported Versions
+-------------------
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.0     | yes                |
+
+Reporting a Vulnerability
+--------------------------
+
+Create an issue with the beginning "[SECURITY]" or "[IMPORTANT REE REE REE]". If you can fix it, create a pull request with the beginning "[SECURITY]" or "[IMPORTANT REE REE REE]".
