@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: GPL-2.0
-VERSION = 5
-PATCHLEVEL = 10
+VERSION = 1.1
+PATCHLEVEL = 0
 SUBLEVEL = 0
 EXTRAVERSION =
-NAME = Kleptomaniac Octopus
+NAME = Exploding Chicken
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
